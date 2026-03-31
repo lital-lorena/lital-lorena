@@ -74,9 +74,7 @@ The discipline of training and the discipline of coding have more in common than
 
 
 <br>
-<div align="center">
-<img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower">
-</a>
+
 
 </div>
 
